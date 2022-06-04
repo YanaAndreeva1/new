@@ -1,0 +1,25 @@
+p, h1, h2, h3, li {
+   color: #191970;
+}
+p, li {
+font-size: 20px; 
+font-size: large;
+
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+html
+{
+      background: #5f9ea0;
+}
+body
+{
+     width: 1000px;
+     margin: 0 auto;
+     padding: 20px 60px 60px 60px;
+     background: #f0ffff;
+}	   
+ 
+<a href="https://qalearning.net/"> QALerning</a> 
